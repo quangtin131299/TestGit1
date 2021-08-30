@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 Đây là test 1
    Sửa lần 2
    Sưa lần 32323
-=======
-Đây là test 1
->>>>>>> parent of 83a2451... second commit
+   Đây là test 1
+
